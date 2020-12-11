@@ -1,0 +1,18 @@
+.elemento{
+  background-color: 'blue';
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  padding: 5px;
+  border: 1px;
+  line-height: 100px;
+}
+
+.contenedor{
+  border: 10px;
+  display: flex;
+  flex-direction:  column;
+  flex-wrap: wrap;
+  justify-content:  flex-start;
+  align-items : strecht;
+}
